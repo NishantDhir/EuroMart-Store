@@ -2,7 +2,7 @@
    <img src="https://github.com/NishantDhir/AdventureWorks-Dataset-Dashboard_BusinessAnalysis/blob/main/Report.png" />
 </p>
 
-# AdventureWorks Cycles
+# Euromart Stores
 A business analysis project with that helped in identifying sales, profit margins, quantity sold and total customers of the store.
 
 ### What's included?
